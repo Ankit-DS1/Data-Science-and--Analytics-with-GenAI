@@ -22,7 +22,7 @@ n = int(input("Please Enter a number:"))
 for i in range(n,0,-1):
     print(i)
 
-#4.sum of Ntuaral numbers
+#4.sum of Natural numbers
 #Take input n and calculate the total sum from 1 to n.
 
 n = int(input("Please enter a number: "))
