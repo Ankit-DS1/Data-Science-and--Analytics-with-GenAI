@@ -84,7 +84,7 @@ for i in range(k):
 
 print(a)
 
-#Reverse list(in place)
+#7.Reverse list(in place)
     #Reverse the entire list without using extra space(i.e swap elements).
 
 a = [10,20,30,40,50]
